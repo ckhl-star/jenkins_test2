@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.33529.622
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "jenkins_test2", "jenkins_test2.vcxproj", "{A2A6717A-7FBE-4A99-A96B-1458E9EC31AB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hellodemo2", "..\hellodemo2\hellodemo2.vcxproj", "{2AC8EA63-BCCB-4B50-B139-D2C73FFE695A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{A2A6717A-7FBE-4A99-A96B-1458E9EC31AB}.Release|x64.Build.0 = Release|x64
 		{A2A6717A-7FBE-4A99-A96B-1458E9EC31AB}.Release|x86.ActiveCfg = Release|Win32
 		{A2A6717A-7FBE-4A99-A96B-1458E9EC31AB}.Release|x86.Build.0 = Release|Win32
+		{2AC8EA63-BCCB-4B50-B139-D2C73FFE695A}.Debug|x64.ActiveCfg = Debug|x64
+		{2AC8EA63-BCCB-4B50-B139-D2C73FFE695A}.Debug|x64.Build.0 = Debug|x64
+		{2AC8EA63-BCCB-4B50-B139-D2C73FFE695A}.Debug|x86.ActiveCfg = Debug|Win32
+		{2AC8EA63-BCCB-4B50-B139-D2C73FFE695A}.Debug|x86.Build.0 = Debug|Win32
+		{2AC8EA63-BCCB-4B50-B139-D2C73FFE695A}.Release|x64.ActiveCfg = Release|x64
+		{2AC8EA63-BCCB-4B50-B139-D2C73FFE695A}.Release|x64.Build.0 = Release|x64
+		{2AC8EA63-BCCB-4B50-B139-D2C73FFE695A}.Release|x86.ActiveCfg = Release|Win32
+		{2AC8EA63-BCCB-4B50-B139-D2C73FFE695A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
